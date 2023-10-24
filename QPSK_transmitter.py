@@ -6,7 +6,7 @@
 #
 # GNU Radio Python Flow Graph
 # Title: QPSK Transmitter with differential coding
-# Author: Manolis Bozis
+# Author: Beauxrel
 # GNU Radio version: 3.10.7.0
 
 from packaging.version import Version as StrictVersion
