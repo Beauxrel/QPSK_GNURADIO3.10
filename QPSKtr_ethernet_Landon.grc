@@ -1,6 +1,6 @@
 options:
   parameters:
-    author: Manolis Bozis
+    author: Beauxrel
     catch_exceptions: 'True'
     category: '[GRC Hier Blocks]'
     cmake_opt: ''
